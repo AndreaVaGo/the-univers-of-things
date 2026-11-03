@@ -42,7 +42,7 @@ The Wiki is organized into the following sections:
 
 ## 🚀 Usage
 
-You can try the application from [GitHub Pages](https://factoriaf5-asturias.github.io/project-p5-digital-academy-team2-the-univers-of-things/) using the demo credentials.
+You can try the application from [GitHub Pages](https://andreavago.github.io/the-univers-of-things/project-p5-digital-academy-team2-the-univers-of-things/) using the demo credentials.
 
 | Role | Email | Password |
 | --- | --- | --- |
